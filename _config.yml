@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
   
 # Site Settings
 locale                   : "en-US"
-title                    : "끄적끄적 코딩노트"
+title                    : "💎 감성프로그래머 노트"
 title_separator          : "-"
 subtitle                 : "@__pyungan"# site tagline that appears below site title in masthead
 name                     : "bepyan"
@@ -93,10 +93,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "bepyan"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "오늘도 **삽질**합니다."
+  location         : "kit"
   email            :
   links:
     - label: "Email"
